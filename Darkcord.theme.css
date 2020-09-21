@@ -15,7 +15,7 @@
 @import url(https://igdbigsteve.github.io/darkcord/darkcord.css);
 /*_____________________________________________________________________________________*/
 
-.theme-dark, .theme-light {
+:root {
 	--header-primary:rgba(255,255,255,1);
 	--header-secondary:#c9c9c9;
 	--text-normal:#fbfbfb;
