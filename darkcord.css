@@ -1,7 +1,7 @@
-/* This is the main Darkcord CSS File. Do not edit this area */
+ /* This is the main Darkcord CSS File. Do not edit this area */
 
 /* Untagged */
-.theme-dark .autocomplete-1vrmpx {
+ .autocomplete-1vrmpx {
     background-color: #242424;
 }
 
@@ -9,24 +9,24 @@
     background-color: #141414;
 }
 
-.theme-dark .option-96V44q:after {
+ .option-96V44q:after {
     background: -webkit-gradient(linear,left top,right top,from(rgba(36,36,36)),color-stop(10%,#242424));
     background: linear-gradient(90deg,rgba(36,36,36),#242424 100%);
 }
 
-.theme-dark .option-96V44q:after {
+ .option-96V44q:after {
     background: none;
 }
 
-.theme-dark .container-3ayLPN {
+ .container-3ayLPN {
     background-color: #141414;
 }
 
-.theme-dark .focused-2bY0OD {
+ .focused-2bY0OD {
     background-color: #242424;
 }
 
-.theme-dark .root-1gCeng {
+ .root-1gCeng {
     background: #242424;
 }
 
@@ -34,7 +34,7 @@
     background-color: #131313;
 }
 
-.theme-dark .selectorSelected-1_M1WV {
+ .selectorSelected-1_M1WV {
     background-color: #141414;
 }
 
@@ -84,7 +84,7 @@
 
 
 /* Tagged */
-.theme-dark .body-3iLsc4, .theme-dark .footer-1fjuF6 {
+ .body-3iLsc4,  .footer-1fjuF6 {
     background-color: #111111;
 } /* Changes the bottom half of the small user popout */
 
@@ -98,15 +98,15 @@
     padding: 16px;
 }
 
-.theme-dark .option-96V44q.selected-rZcOL-:after {
+ .option-96V44q.selected-rZcOL-:after {
     background: #242424;
 } /* Changes search area background colour right*/
 
-.theme-dark .option-96V44q.selected-rZcOL- {
+ .option-96V44q.selected-rZcOL- {
     background-color: #242424;
 } /* Changes search area background colour */
 
-.theme-dark .footer-2gL1pp {
+ .footer-2gL1pp {
     background-color: #242424;
     -webkit-box-shadow: none;
     box-shadow: none;
@@ -134,11 +134,11 @@
 	background:  black;
 } /* Changes discord home icon hover and selected colour */
 
-.theme-dark .wrapper-1-Fsb8 {
+ .wrapper-1-Fsb8 {
 	background-color: #141414;
 } /* Changes the Emoji category default colour */
 
-.theme-dark .wrapper-1-Fsb8:hover {
+ .wrapper-1-Fsb8:hover {
 	background-color: #242424;
 } /* Changes the Emoji category colour when hovered */
 
@@ -173,23 +173,23 @@
     background-color: #5d5a5a;
 } /* Changes Go Live screenshare button colours */
 
-.theme-dark .lookFilled-1Gx00P.colorPrimary-3b3xI6 {
+ .lookFilled-1Gx00P.colorPrimary-3b3xI6 {
     background-color: #5d5a5a !important;
     color: white !important;
 } /* Changes back and change button colours in screenshare */
-.theme-dark .categoryFadeBlurple-1j72_A, .theme-light .categoryFadeBlurple-1j72_A {
+ .categoryFadeBlurple-1j72_A, .theme-light .categoryFadeBlurple-1j72_A {
     background-color: none;
 } /* Fix for Gif search */
 
-.theme-dark .categoryFade-2ybR1J, .theme-light .categoryFade-2ybR1J {
+ .categoryFade-2ybR1J, .theme-light .categoryFade-2ybR1J {
     background-color: none;
 } /* Another fix for Gif search */
 
-.theme-dark .root-1gCeng {
+ .root-1gCeng {
     background-color: #0c0c0c !important;
 } /* Share screen top window background colour */
 
-.theme-dark .footer-2gL1pp {
+ .footer-2gL1pp {
     background-color: #0c0c0c !important;
 }/* Share screen bottom window background colour */
 
@@ -207,7 +207,6 @@ background-color: #48424252;
 	background-color: #48424252;
 } /* Unread channel icon and background colour */
 
-.theme-dark .modal-yWgWj- {
+ .modal-yWgWj- {
     background-color: #0c0c0c;
 } /* Notification settings  background colour */
-
