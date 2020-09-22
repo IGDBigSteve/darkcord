@@ -1,3 +1,4 @@
+ 
  /* This is the main Darkcord CSS File. Do not edit this area */
 
 /* Untagged */
@@ -84,7 +85,7 @@
 
 
 /* Tagged */
- .body-3iLsc4,  .footer-1fjuF6 {
+ .body-3iLsc4, .footer-1fjuF6 {
     background-color: #111111;
 } /* Changes the bottom half of the small user popout */
 
@@ -131,7 +132,7 @@
 } /* Changes the join/create Server and Explore button colours when unselected */
 
 .wrapper-1BJsBx.selected-bZ3Lue .childWrapper-anI2G9, .wrapper-1BJsBx:hover .childWrapper-anI2G9 {
-	background:  black;
+	background: black;
 } /* Changes discord home icon hover and selected colour */
 
  .wrapper-1-Fsb8 {
@@ -163,7 +164,6 @@
 } /* Changes go live button colours in screenshare */
 
 .selectorButtonSelected-t5V9On {
-    /* background-color: #7289da; */
     background-color: #5d5a5a !important;
     color: white !important;
 } /* Changes 720/30 icon background and text colours in screenshare */
@@ -177,11 +177,11 @@
     background-color: #5d5a5a !important;
     color: white !important;
 } /* Changes back and change button colours in screenshare */
- .categoryFadeBlurple-1j72_A, .theme-light .categoryFadeBlurple-1j72_A {
+ .categoryFadeBlurple-1j72_A, .categoryFadeBlurple-1j72_A {
     background-color: none;
 } /* Fix for Gif search */
 
- .categoryFade-2ybR1J, .theme-light .categoryFade-2ybR1J {
+ .categoryFade-2ybR1J, .categoryFade-2ybR1J {
     background-color: none;
 } /* Another fix for Gif search */
 
@@ -209,4 +209,4 @@ background-color: #48424252;
 
  .modal-yWgWj- {
     background-color: #0c0c0c;
-} /* Notification settings  background colour */
+} /* Notification settings background colour */
