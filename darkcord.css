@@ -200,3 +200,8 @@
  .modal-yWgWj- {
     background-color: #0c0c0c;
 } /* Notification settings background colour */
+
+.modeUnread-1zpFdA .content-3at_AU{
+    color: white !important;
+	background-color: #48424252;
+} /* Changers unread messages background color */
