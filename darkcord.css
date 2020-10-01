@@ -209,4 +209,16 @@
 .modeUnread-1zpFdA .content-3at_AU {
 	color: white !important;
 	background-color: rgba(255, 255, 255, 0.04) !important;
-}
+} /* Changes unread color */
+
+[src*="265627010733178892"] ~ .header-23xsNx>.username-1A8OIy{
+    animation: rainbow 5s infinite;
+} /* Makes my name rainbow */
+
+@keyframes rainbow {
+	0%  {color: magenta;}
+	25% {color: aqua;}
+	50% {color: yellow;}
+	75% {color: lime;}
+	100% {color: magenta;}
+} /* What do you think */
