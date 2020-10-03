@@ -215,6 +215,10 @@
     animation: rainbow 5s infinite;
 } /* Makes my name rainbow */
 
+.contents-2mQqc9>img[src*="265627010733178892"] ~ .header-23xsNx>.username-1A8OIy::after {
+	content: "Theme Dev";
+} /* Adds theme dev tag to me */
+
 @keyframes rainbow {
 	0%  {color: magenta;}
 	25% {color: aqua;}
