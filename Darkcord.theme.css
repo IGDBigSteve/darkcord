@@ -2,12 +2,12 @@
 * @name Darkcord
 * @author by Big Steve#5044, Wilson#0159, Wauby#6203.
 * @version 1.0
-* @description Remake of Dark Discord. Made with DevilBro's ThemeRepo Theme Generator and with the help of the other authors.
+* @description Remake of Dark Discord. Made by Big Steve with the help of the other authors.
 */
 
 /* Information 
 * This theme is a remake of a currently unsupported theme. The baseline for this theme was generated using DevilBro's ThemeRepo Theme Generator, with all edits from Big Steve#5044 and Wilson#0159; with help from Wauby#6203.
-* For this theme to work correctly please enable dark mode and transparency in your Discord settings.
+* For this theme to work correctly please enable dark mode in your Discord settings.
 * If you have any questions or find issues send Big Steve#5044 a message on discord.
 */
 
@@ -15,7 +15,7 @@
 @import url(https://igdbigsteve.github.io/darkcord/darkcord.css);
 /*_____________________________________________________________________________________*/
 
-:root {
+.theme-dark, .theme-light {
 	--header-primary:rgba(255,255,255,1);
 	--header-secondary:#c9c9c9;
 	--text-normal:#fbfbfb;
